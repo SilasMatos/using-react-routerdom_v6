@@ -1,3 +1,3 @@
 export const Notfound = () => {
-  return <>asd</>
+  return <>NotFount</>
 }
