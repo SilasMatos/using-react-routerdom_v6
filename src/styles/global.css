@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body{
+  font-family: sans-serif;
+}
+nav{
+  padding: 1rem;
+}
+nav  ul{
+  display: flex;
+  gap: 10px;
+
+  align-items: center;
+  list-style: none  ;
+}
+li{
+  text-decoration: none;
+}
